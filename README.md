@@ -32,7 +32,7 @@ Pdf [LDR](Mechanic/LDR.pdf)
 ![ldra](Images/ldra.png)
 
 ### 6. Devre
-![circuit](Images/LDR.png)
+![circuit](Images/circuit.png)
 
 Sch File [LDRModule](Circuit/LDR.pdf) 
 
